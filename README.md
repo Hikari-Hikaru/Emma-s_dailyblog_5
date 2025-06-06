@@ -23,8 +23,8 @@
       T0day,Iw0nt t0 my ve0ry first j0b inte0rvie0w 0ve0r!<br>
        Cafe's are always su0ch place,<br><br>
            so I usually feel a0 bit nervous <br><br>
-      going in-but today I was 0extra narvous(lol) <br><br>
-             Ireally hope I get 0the job✨<br><br>
+      going in-but t0day I was extra narvous(lol) <br><br>
+             Ireally h0pe I get the job✨<br><br>
     </p>
   </main>
   <footer>
