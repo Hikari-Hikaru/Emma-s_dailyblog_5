@@ -20,11 +20,11 @@
   <main>
     <h2>2025_05_01</h2>
     <p>
-      T0day,Iw0nt t0 my very first j0b interview 0ver!<br>
+      Today,Iwant to my very first job interview over!<br>
        Cafe's are always such place,<br><br>
            so I usually feel a bit nerv0us <br><br>
-      g0ing in-but t0day I was extra narvous(lol) <br><br>
-               Ireally h0pe I get the j0b✨<br><br>
+      going in-but today I was extra narvous(lol) <br><br>
+               Ireally hope I get the job✨<br><br>
     </p>
   </main>
   <footer>
