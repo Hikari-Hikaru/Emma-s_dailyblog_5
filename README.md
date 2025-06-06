@@ -20,11 +20,11 @@
   <main>
     <h2>2025_05_01</h2>
     <p>
-      T0day,Iw0nt t0 my ve0ry first j0b inte0rvie0w 0ve0r!<br>
-       Cafe's are always su0ch place,<br><br>
-           so I usually feel a0 bit nervous <br><br>
-      going in-but t0day I was extra narvous(lol) <br><br>
-               Ireally h0pe I get the job✨<br><br>
+      T0day,Iw0nt t0 my very first j0b interview 0ver!<br>
+       Cafe's are always such place,<br><br>
+           so I usually feel a bit nerv0us <br><br>
+      g0ing in-but t0day I was extra narvous(lol) <br><br>
+               Ireally h0pe I get the j0b✨<br><br>
     </p>
   </main>
   <footer>
