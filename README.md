@@ -21,7 +21,7 @@
     <h2>2025_05_01</h2>
     <p>
       Today,Iwent to my very first job interview ever!<br>
-      Cafe's are always such place,<br>
+      Cafe's are always such place,<br><br>
       so I usually feel a bit nervous going in-but today I was extra narvous(lol) <br><br>
       Ireally hope I got the job✨<br><br>
     </p>
